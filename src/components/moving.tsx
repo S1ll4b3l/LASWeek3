@@ -15,19 +15,23 @@ export function InfiniteMovingCardsDemo() {
 
 const testimonials = [
   {
-    title: "ITBOX Basic Cyber Security Course",
+    quote: "ITBOX",
+    title: "Basic Cyber Security Course",
     name: "July 2024 - Present",
   },
   {
+    quote: "Google Developer Student Club",
     title: "Website Development Mini Bootcamp by GDSC",
     name: "February 2024",
   },
   {
-    title: "Dicoding Basic Dev-Ops",
+    quote: "Dicoding",
+    title: "Basic Dev-Ops",
     name: "November 2023",
   },
   {
-    title: "Basic Cyber Security and ISO 27001 Awareness by TAALENTA",
+    quote: "TAALENTA",
+    title: "Basic Cyber Security and ISO 27001 Awareness",
     name: "November 2022",
   },
 ];
